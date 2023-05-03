@@ -5,6 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&)
+![HTML](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&)
 
 ### Follow Me
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter)](https://twitter.com/maciontosh)
