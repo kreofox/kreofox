@@ -1,4 +1,4 @@
-[![Header](https://github.com/kreofox/kreofox/blob/main/assets/6vIk.gif)]
+![Header](https://github.com/kreofox/kreofox/blob/main/assets/6vIk.gif)]
 
 
 </br>
