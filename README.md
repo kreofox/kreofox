@@ -9,9 +9,9 @@
 <img hight="400" width="500" alt="GIF" align="right" src='https://github.com/kreofox/kreofox/blob/main/assets/13626.gif' > 
 
 # Language and instrument 🧑‍💻
-<p align='right'>
+<p align='left'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg' title = 'Arch-Linux' higth= '50' width = '50'>
-
+  
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=kreofox&&show_icons=true&theme=radical"/>
