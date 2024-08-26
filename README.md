@@ -28,7 +28,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Gmail-Dark.svg' title = 'timirdejii8@gmail.com' higth='80' width='80'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Discord.svg' title = 'kreofox' higth='80' width='80'>
 
-<img hight = '300' width = '400' title='GIF' aligen='right' src='https://github.com/kreofox/kreofox/blob/main/assets/8XAp.gif'>
+<img hight = '300' width = '400' title='GIF' align='right' src='https://github.com/kreofox/kreofox/blob/main/assets/8XAp.gif'>
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=kreofox&&show_icons=true&theme=radical"/>
