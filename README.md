@@ -23,6 +23,7 @@
 
 
 # Conact 🪪
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me🖊
 <p align = 'left'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Gmail-Dark.svg' title = 'timirdejii8@gmail.com' higth='80' width='80'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Discord.svg' title = 'kreofox' higth='80' width='80'>
