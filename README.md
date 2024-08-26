@@ -25,11 +25,11 @@
 
 <p align="center">
 
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Python-Dark.svg" alt="python" width="120" hight="50">
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/VSCode-Dark.svg" alt="visualstudio_code" width="240" hight="50">
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg" alt="Arch-Dark" width="100" hight="50">
 </p>
 </br>
 </br>
