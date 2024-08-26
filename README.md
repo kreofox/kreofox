@@ -10,8 +10,8 @@
 
 # Language and instrument 🧑‍💻
 <p align='left'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg' title = 'Arch-Linux' higth= '50' width = '50'>
-  
+  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg' title = 'Arch-Linux' higth= '60' width = '60'>
+
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=kreofox&&show_icons=true&theme=radical"/>
