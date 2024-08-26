@@ -29,7 +29,7 @@
   </br>
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/VSCode-Dark.svg" alt="visualstudio_code" width="100" hight="50">
   </br>
-  <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg" alt="Arch-Dark" width="100" hight="50">
+  <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg" align ="center" alt="Arch-Dark" width="100" hight="50">
 </p>
 </br>
 </br>
