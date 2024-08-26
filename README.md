@@ -6,7 +6,7 @@
 - ✨ Watching Anime
 - ✨ I`m playing project zomboid
 - ✨ I speak English and Russian. 
-<img hight="400" width="500" alt="GIF" align="right" src='https://github.com/kreofox/kreofox/blob/main/assets/13626.gif' > 
+<img hight="400" width="400" alt="GIF" align="right" src='https://github.com/kreofox/kreofox/blob/main/assets/13626.gif' > 
 
 
 
