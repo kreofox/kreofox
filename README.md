@@ -25,7 +25,7 @@
 
 <p align="center">
 
-<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Python-Dark.svg" alt="python" width="120" hight="50">
+<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Python-Dark.svg" alt="python" width="100" hight="50">
 </br>
 <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/VSCode-Dark.svg" alt="visualstudio_code" width="100" hight="50">
 </br>
