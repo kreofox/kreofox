@@ -24,8 +24,8 @@
 
 # Conact 🪪
 <p align = 'left'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Gmail-Dark.svg' title = 'timirdejii8@gmail.com' higth='60' width='60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Discord.svg' title = 'kreofox' higth='60' width='60'>
+  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Gmail-Dark.svg' title = 'timirdejii8@gmail.com' higth='80' width='80'>
+  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Discord.svg' title = 'kreofox' higth='80' width='80'>
 
 
 <p align="center" >  
