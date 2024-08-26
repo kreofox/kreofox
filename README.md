@@ -23,6 +23,10 @@
 
 
 # Conact 🪪
+<p align = 'left'>
+  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Gmail-Dark.svg' title = 'timirdejii8@gmail.com' higth='60' width='60'>
+  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Discord.svg' title = 'kreofox' higth='60' width='60'>
+
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
