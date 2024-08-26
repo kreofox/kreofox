@@ -1,6 +1,5 @@
 ![Header](https://github.com/kreofox/kreofox/blob/main/assets/3oEu.gif)]
 
-<img hight="300" width="500" alt="GIF" align="right" src='https://github.com/kreofox/kreofox/blob/main/assets/13626.gif' > 
 
 # About me💬
 ### **I`m 22 years old** 
