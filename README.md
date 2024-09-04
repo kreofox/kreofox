@@ -32,7 +32,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <img hight="400" width="500" alt="GIF" align="right" src='https://github.com/kreofox/kreofox/blob/main/assets/8XAp.gif'>
 
 
-# Donate <img src = >
+# Donate <img src ='https://github.com/kreofox/kreofox/blob/main/assets/Donate.GIF' title= 'money' >
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
