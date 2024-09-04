@@ -47,21 +47,12 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 
-# Donate <img src ='https://github.com/kreofox/kreofox/blob/main/assets/Donate.GIF' title= 'money' higth='30' width='30' >
+# Donate <img src ='https://github.com/kreofox/kreofox/blob/main/assets/Donate.GIF' title= 'money' higth='40' width='40' >
 
+<img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/money-bag-svgrepo-com.svg' higth= '60' width = '60'>
+For food and survival:)
 
-
-
-
-
-
-
-
-
-
-
-
-
+[Money](patreon.com/Kreofox) 
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
