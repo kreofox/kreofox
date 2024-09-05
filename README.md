@@ -1,4 +1,4 @@
-![Header](https://github.com/kreofox/kreofox/blob/main/assets/3oEu.gif)]
+![Header](https://github.com/kreofox/kreofox/blob/main/assets/3oEu.gif)
 
 
 # About me💬
