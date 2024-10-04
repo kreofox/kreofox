@@ -8,10 +8,6 @@
 - ✨ I`m playing project zomboid
 - ✨ I speak English and Russian. 
 
-# Operating systems 
-<p align = 'left'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Windows-Dark.svg' title = 'Windows' higth= '60' width = '60' align = 'left'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg' title = 'Arch-Linux' higth= '60' width = '60' align = 'left'>
 
 
 
