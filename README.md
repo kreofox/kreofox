@@ -12,6 +12,7 @@
 <p align = 'left'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Windows-Dark.svg' title = 'Windows' higth= '60' width = '60'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg' title = 'Arch-Linux' higth= '60' width = '60'>
+<img hight="400" width="500" alt="GIF" align="center" src='https://github.com/kreofox/kreofox/blob/main/assets/2A5.gif' > 
 
 
 
