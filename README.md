@@ -10,19 +10,19 @@
 
 # Operating systems 
 <p align = 'left'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Windows-Dark.svg' title = 'Windows' higth= '60' width = '60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg' title = 'Arch-Linux' higth= '60' width = '60'>
+  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Windows-Dark.svg' title = 'Windows' higth= '60' width = '60' align = 'left'>
+  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg' title = 'Arch-Linux' higth= '60' width = '60' align = 'left'>
 <img hight="300" width="400" alt="GIF" align="righ" src='https://github.com/kreofox/kreofox/blob/main/assets/2A5.gif' > 
 
 
 
 # Language and instrument 🧑‍💻
 <p align='left'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Python-Dark.svg' title = 'Python' higth= '60' width = '60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/VSCode-Dark.svg' title = 'VS' higth= '60' width = '60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/TypeScript.svg' title = 'TS' higth= '60' width = '60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/CSS.svg' title = 'CSS' higth= '60' width = '60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/HTML.svg' title = 'HTML' higth= '60' width = '60'>
+  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Python-Dark.svg' title = 'Python' higth= '60' width = '60' align = 'left'>
+  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/VSCode-Dark.svg' title = 'VS' higth= '60' width = '60' align = 'left'>
+  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/TypeScript.svg' title = 'TS' higth= '60' width = '60' align = 'left'>
+  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/CSS.svg' title = 'CSS' higth= '60' width = '60' align = 'left'>
+  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/HTML.svg' title = 'HTML' higth= '60' width = '60' align = 'left'>
 <img hight="300" width="400" alt="GIF" align="right" src='https://github.com/kreofox/kreofox/blob/main/assets/y7.gif' > 
 
 
