@@ -23,7 +23,7 @@
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/TypeScript.svg' title = 'TS' higth= '60' width = '60' align = 'left'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/CSS.svg' title = 'CSS' higth= '60' width = '60' align = 'left'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/HTML.svg' title = 'HTML' higth= '60' width = '60' align = 'left'>
-<img hight="300" width="400" alt="GIF" align="right" src='https://github.com/kreofox/kreofox/blob/main/assets/y7.gif' > 
+<img hight="100" width="300" alt="GIF" align="right" src='https://github.com/kreofox/kreofox/blob/main/assets/y7.gif' > 
 
 
 
@@ -32,7 +32,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p align = 'left'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Gmail-Dark.svg' title = 'timirdejii8@gmail.com' higth='80' width='80' align = 'left'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Discord.svg' title = 'kreofox' higth='80' width='80' align = 'left'>
-<img hight="300" width="400" alt="GIF" align="right" src='https://github.com/kreofox/kreofox/blob/main/assets/8XAp.gif'>
+<img hight="100" width="300" alt="GIF" align="right" src='https://github.com/kreofox/kreofox/blob/main/assets/8XAp.gif'>
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
