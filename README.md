@@ -12,7 +12,7 @@
 <p align = 'left'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Windows-Dark.svg' title = 'Windows' higth= '60' width = '60' align = 'left'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg' title = 'Arch-Linux' higth= '60' width = '60' align = 'left'>
-<img hight="300" width="400" alt="GIF" align="righ" src='https://github.com/kreofox/kreofox/blob/main/assets/2A5.gif' > 
+<img hight="100" width="300" alt="GIF" align="righ" src='https://github.com/kreofox/kreofox/blob/main/assets/2A5.gif' > 
 
 
 
