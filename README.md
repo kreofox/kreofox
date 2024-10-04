@@ -15,7 +15,6 @@
 <p align='left'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Windows-Dark.svg' title = 'Windows' higth= '60' width = '60'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg' title = 'Arch-Linux' higth= '60' width = '60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg' title = 'Arch-Linux' higth= '60' width = '60'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Python-Dark.svg' title = 'Python' higth= '60' width = '60'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/VSCode-Dark.svg' title = 'VS' higth= '60' width = '60'>
   <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/TypeScript.svg' title = 'TS' higth= '60' width = '60'>
