@@ -38,7 +38,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Kreofox&&show_icons=true&theme=midnight-purple"/>
-<<<<<<< HEAD
+
 </br>
-=======
->>>>>>> 91f4bd545304f236e3571c087e83c2f7bbcba8bd
+
