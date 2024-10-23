@@ -28,13 +28,13 @@
 
 <p aling = "center">
 
-<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Python-Dark.svg" alt="python" width="60" hight="60">
-<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/HTML.svg" alt="html"  width="60" hight="60">
-<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/CSS.svg" alt="CSS" width="60" hight="60">
-<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/JavaScript.svg" alt="JS" width="60" hight="60">
+  <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Python-Dark.svg" alt="python" width="60" hight="60">
+  <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/HTML.svg" alt="html"  width="60" hight="60">
+  <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/CSS.svg" alt="CSS" width="60" hight="60">
+  <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/JavaScript.svg" alt="JS" width="60" hight="60">
 </br>
-<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg" alt="ArchLinux" width="60" hight="60">
-<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Windows-Dark.svg" alt="Windows" width="60" hight="60">
+  <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg" alt="ArchLinux" width="60" hight="60">
+  <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Windows-Dark.svg" alt="Windows" width="60" hight="60">
 </br>
 </p>
 </br>
@@ -49,10 +49,10 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href = "timirdejii8@gmail.com">
-  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Gmail-Dark.svg" />
+  <img align="left" alt="Gmail" width="60" hight="60" src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Gmail-Dark.svg" />
 </a>
 <a href = "">
-  <img align="left" alt="Discord" width="130" hight="100" src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Discord.svg">
+  <img align="left" alt="Discord" width="60" hight="60" src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Discord.svg">
 </br>
 </br>
 </br>
