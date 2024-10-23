@@ -1,44 +1,66 @@
-![Header](https://github.com/kreofox/kreofox/blob/main/assets/3oEu.gif)
+# Nani
 
+<div align = "center">
+<img hight="300" width="700" alt="Gif" align="center" src = "https://github.com/kreofox/kreofox/blob/main/assets/3oEu.gif">
+</div>
 
-# About me💬
-### **I`m 22 years old** 
-### **Hobbies:**
-- ✨ Watching Anime
-- ✨ I`m playing project zomboid
-- ✨ I speak English and Russian. 
-
-
-
-
-# Language and instrument 🧑‍💻
 </br>
-<p align='left'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Windows-Dark.svg' title = 'Windows' higth= '60' width = '60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg' title = 'Arch-Linux' higth= '60' width = '60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Python-Dark.svg' title = 'Python' higth= '60' width = '60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/VSCode-Dark.svg' title = 'VS' higth= '60' width = '60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/TypeScript.svg' title = 'TS' higth= '60' width = '60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/CSS.svg' title = 'CSS' higth= '60' width = '60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/HTML.svg' title = 'HTML' higth= '60' width = '60'>
-<img hight="400" width="500" alt="GIF" align="center" src='https://github.com/kreofox/kreofox/blob/main/assets/y7.gif' > 
+</br>
 </br>
 
+# About ME:
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/kreofox/kreofox/blob/main/assets/13626.gif">
+
+### - **I`m 22 years old**
+### - **Hobbies:**
+###   - ✨ I`m reading Book 
+###   - ✨ I`m playing project zomboid
+###   - ✨ I speak English,Russian and Czech 
 
 
-# Conact 🪪
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me🖊
 </br>
-<p align = 'left'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Gmail-Dark.svg' title = 'timirdejii8@gmail.com'  higth= '60' width = '60'>
-  <img src = 'https://github.com/kreofox/kreofox/blob/main/assets/icons/Discord.svg' title = 'kreofox'  higth= '60' width = '60''>
-<img hight="400" width="500" alt="GIF" align="right" src='https://github.com/kreofox/kreofox/blob/main/assets/8XAp.gif'>
+</br>
 </br>
 
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p aling = "center">
+
+<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Python-Dark.svg" alt="python" width="60" hight="60">
+<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/HTML.svg" alt="html"  width="60" hight="60">
+<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/CSS.svg" alt="CSS" width="60" hight="60">
+<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/JavaScript.svg" alt="JS" width="60" hight="60">
+</br>
+<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg" alt="ArchLinux" width="60" hight="60">
+<img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Windows-Dark.svg" alt="Windows" width="60" hight="60">
+</br>
+</p>
+</br>
+</br>
+
+ Contact Me :
+
+<p>
+ </br>
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href = "timirdejii8@gmail.com">
+  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Gmail-Dark.svg" />
+</a>
+<a href = "">
+  <img align="left" alt="Discord" width="130" hight="100" src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Discord.svg">
+</br>
+</br>
+</br>
 </a>
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Kreofox&&show_icons=true&theme=midnight-purple"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
   </a>
   </p>
+
