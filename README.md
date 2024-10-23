@@ -10,7 +10,7 @@
 
 # About ME:
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/kreofox/kreofox/blob/main/assets/13626.gif">
+<img hight="100" width="200" alt="GIF" align="right" src="https://github.com/kreofox/kreofox/blob/main/assets/13626.gif">
 
 ### - **I`m 22 years old**
 ### - **Hobbies:**
