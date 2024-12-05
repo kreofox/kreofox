@@ -61,6 +61,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
 
+*************
+
+# Donate <img src ='https://github.com/kreofox/kreofox/blob/main/assets/Donate.GIF' title= 'money' higth='40' width='40' >
+
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://buymeacoffee.com/kreofotimio)
 
