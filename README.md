@@ -1,4 +1,7 @@
-# Nani
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Kreofox+" />
+</h3>
+
 
 <div align = "center">
 <img hight="300" width="700" alt="Gif" align="center" src = "https://github.com/kreofox/kreofox/blob/main/assets/3oEu.gif">
@@ -58,10 +61,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kreofox&theme=tokyonight)
 
 *************
