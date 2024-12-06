@@ -42,9 +42,9 @@
 # Contact Me :
 #### If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉. 
 
-<p width="60" hight="60">
+
 [!["Gmail.com"](https://github.com/kreofox/kreofox/blob/main/assets/icons/Gmail-Dark.svg)](kreofotimir@gmail.com)
-</p>
+
 
 *************
 
