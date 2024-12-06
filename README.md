@@ -49,6 +49,10 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://buymeacoffee.com/kreofotimio)
 
+Or you can donate cryto on my Eth wallet :) 
+> 0x975ea8e8fcba40e19b2ef9f151adc63fa7dec127
+
+
 # 📊 Stats
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kreofox&theme=tokyonight)
