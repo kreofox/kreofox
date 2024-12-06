@@ -32,9 +32,6 @@
 <p aling = "center">
 
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Python-Dark.svg" alt="python" width="60" hight="60">
-  <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/HTML.svg" alt="html"  width="60" hight="60">
-  <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/CSS.svg" alt="CSS" width="60" hight="60">
-  <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/JavaScript.svg" alt="JS" width="60" hight="60">
 </br>
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg" alt="ArchLinux" width="60" hight="60">
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Windows-Dark.svg" alt="Windows" width="60" hight="60">
