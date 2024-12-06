@@ -42,10 +42,6 @@
 # Contact Me :
 #### If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉. 
 
-
-[!["Gmail.com"](https://github.com/kreofox/kreofox/blob/main/assets/icons/Gmail-Dark.svg)](kreofotimir@gmail.com)
-
-
 *************
 
 # Donate <img src ='https://github.com/kreofox/kreofox/blob/main/assets/Donate.GIF' title= 'money' higth='40' width='40' >
