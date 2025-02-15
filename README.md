@@ -13,8 +13,6 @@
 
 # About ME:
 
-<img hight="100" width="200" alt="GIF" align="right" src="https://github.com/kreofox/kreofox/blob/main/assets/13626.gif">
-
 ### - **I`m 22 years old**
 ### - **Hobbies:**
 ###   - ✨ I`m reading Book 
@@ -31,6 +29,8 @@
 
 <p aling = "center">
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Python-Dark.svg" alt="python" width="60" hight="60">
+  <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/CS.svg" alt="C#" width="60" hight="60">
+  <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/CPP.svg" alt="C++" width="60" hight="60">
 </br>
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg" alt="ArchLinux" width="60" hight="60">
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Windows-Dark.svg" alt="Windows" width="60" hight="60">
