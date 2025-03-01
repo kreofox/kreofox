@@ -49,8 +49,7 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://buymeacoffee.com/kreofotimio)
 
-Or you can donate cryto on my Eth wallet :) 
-> bc1qjlal0vj85q2qx6lmxkeem9wnnw8spej5gnunja
+
 
 
 # 📊 Stats
