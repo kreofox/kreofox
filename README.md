@@ -28,6 +28,8 @@
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Python-Dark.svg" alt="python" width="60" hight="60">
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/CS.svg" alt="C#" width="60" hight="60">
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/CPP.svg" alt="C++" width="60" hight="60">
+  <img src ="https://github.com/kreofox/kreofox/blob/main/assets/icons/Github-Dark.svg" alt= "GitHub" width="60" hight="60">
+  <img src ="https://github.com/kreofox/kreofox/blob/main/assets/icons/Git.svg" alt = "Git" width="60" hight="60">
 </br>
 
 # OS👨‍💻: 
