@@ -13,18 +13,15 @@
 
 # About ME:
 
-### - **I`m 22 years old**
-### - **Hobbies:**
-###   - ✨ I`m reading Book 
-###   - ✨ I`m playing project zomboid
-###   - ✨ I speak English,Russian and Czech 
+### I`m 24 years 
+### I speak Rushin and English, Czesky 
 
 
 </br>
 </br>
 </br>
 
-# Languages & Tools 👨‍💻 🛠:
+# Tools 🛠: 
 </br>
 
 <p aling = "center">
@@ -32,12 +29,16 @@
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/CS.svg" alt="C#" width="60" hight="60">
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/CPP.svg" alt="C++" width="60" hight="60">
 </br>
+
+# OS👨‍💻: 
+</br>
+<p aling = "center">
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Arch-Dark.svg" alt="ArchLinux" width="60" hight="60">
   <img src="https://github.com/kreofox/kreofox/blob/main/assets/icons/Windows-Dark.svg" alt="Windows" width="60" hight="60">
+
 </br>
-</p>
-</br>
-</br>
+
+
 
 # Contact Me :
 #### If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉. 
